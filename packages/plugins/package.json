@@ -11,7 +11,11 @@
   "author": "Tyler Hall",
   "license": "ISC",
   "dependencies": {
-    "esm": "^3.2.25"
+    "crocks": "^0.12.4",
+    "esm": "^3.2.25",
+    "ramda": "^0.27.1",
+    "redis-mock": "^0.54.0",
+    "uuid": "^8.3.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
